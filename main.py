@@ -17,8 +17,8 @@ Bot = Client(
 )
 
 
-START_TEXT = """Hello {}
-I am a google search bot.
+START_TEXT = """Hello Thunder Gosearch
+My name is Thunder Gosearch I Used to Search In Google.
 
 > `I can search from google. Use me in inline.`
 
